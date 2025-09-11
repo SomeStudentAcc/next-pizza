@@ -1,0 +1,6 @@
+{
+  "extends": ["next/core-web-vitals", "next/typescript"],
+  "rules": {
+    "@next/mext/no-img-element": "off"
+  }
+}
